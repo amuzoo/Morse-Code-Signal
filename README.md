@@ -3,7 +3,7 @@ This project allows users to input words and numbers into a GUI. The characters 
 
 |**Materials**|
 |---|
-|Arduino R3|
+|Arduino UNO R3|
 |Red LED (Ω)|
 |330Ω Resistor|
 |2 Male to Male Wires|
