@@ -5,7 +5,7 @@ This project allows users to input words and numbers into a GUI. The characters 
 |---|
 |Arduino UNO R3|
 |Red LED (Ω)|
-|330Ω Resistor|
+|330 kΩ Resistor|
 |2 Male to Male Wires|
 ---
 ### **Circuit Wiring** 
