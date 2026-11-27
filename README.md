@@ -16,6 +16,6 @@ This project allows users to input words and numbers into a GUI. The characters 
 ### **Progress Tracker**
 - [x] Circuit board
 - [ ] Morse code conversions
-- [ ] GUI interface
+- [ ] Take user input
 - [ ] Separating and reading input
 - [ ] Finish !!!
